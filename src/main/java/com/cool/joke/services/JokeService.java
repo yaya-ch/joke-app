@@ -1,6 +1,6 @@
 package com.cool.joke.services;
 
-public interface JokeServices {
+public interface JokeService {
 
     String getJoke();
 }
